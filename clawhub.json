@@ -1,0 +1,13 @@
+{
+  "name": "memory-search",
+  "version": "3.1.0",
+  "description": "语义记忆搜索技能，支持 BGE embedding 和关键词搜索，自动加载所有智能体记忆",
+  "author": "pengong101",
+  "license": "MIT",
+  "tags": ["memory", "search", "semantic", "embedding", "bge", "chinese"],
+  "rating": 5.0,
+  "downloads": 0,
+  "source": "https://github.com/pengong101/openclaw-memory-search",
+  "created_at": "2026-04-05T00:00:00Z",
+  "updated_at": "2026-04-07T03:50:00Z"
+}
